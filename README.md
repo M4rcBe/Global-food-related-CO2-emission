@@ -6,6 +6,7 @@ In the inductive part, a simple linear regression is performed.
 
 
 The CO2 dataset was provided by jthomasmock. For descriptions of the variables, have a look at:
+
 https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-18/readme.md
 
 The GDP dataset(year 2018) can be accessed via the following link:
