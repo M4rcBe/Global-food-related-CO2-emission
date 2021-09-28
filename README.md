@@ -2,7 +2,7 @@ Topic:
 
 International nutriment related CO2 emissions and GDP
  
-In this project, the relationship between GDP and CO2 emissions of food is analysed with descriptive and inductive statistical methods. 
+In this project, the relationship between the GDP and the CO2 emission of food is analysed with descriptive and inductive statistical methods. 
 The descriptive part is containing plots with ggplot2. 
 In the inductive part, a simple linear regression is performed.
 
