@@ -1,11 +1,11 @@
-# Loading the required packages
+# Loading of the required packages
 
 library(readr)
 library(ggplot2)
 library(dplyr)
 library(mosaic)
 
-# Set working directory and load data
+# Set working directory and load data from csv files
 
 setwd("/Users/marcb/Documents/CO2/")
 
