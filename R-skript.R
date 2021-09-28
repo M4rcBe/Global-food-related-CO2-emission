@@ -26,7 +26,7 @@ data$food_category <- as.factor(data$food_category)
 levels(data$food_category)
 
 
-# Renaming the variables
+# Renaming the characteristics
 
 fleisch <- data[data$food_category %in% c("Pork", "Poultry","Beef","Lamb & Goat","Fish"), ]    
 
