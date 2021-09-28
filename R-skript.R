@@ -145,7 +145,7 @@ modelI <- lm(dd$V1~dd$GDP_l, data=dd)
 
 summary(modelI)
 
-# Scatter plot 
+# Scatterplot 
 
 plot(dd$V1~dd$GDP_l, main="Streudiagramm GDP & CO2 Emissionen Jahr 2018", 
      xlab="log GDP", ylab="Durchschnittliche Emmission", pch=19)
